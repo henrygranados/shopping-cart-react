@@ -1,1 +1,1 @@
-# shopping-cart-react
+# shopping cart in react
